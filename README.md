@@ -1,2 +1,3 @@
 # ticker
-Experimental To-Do list app
+Experimental To-Do list app.
+Intended to track hourly activities.
